@@ -1,1 +1,2 @@
 Version 1.0
+Feature de perfil de usuario iniciada por desarrollador A
